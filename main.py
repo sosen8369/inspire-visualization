@@ -165,3 +165,8 @@ if __name__ == "__main__":
         chunk=args.chunk,
         episode=args.episode
     )
+
+"""
+Usage:
+python main.py --chunk 0 --episode 0
+"""
